@@ -1,3 +1,5 @@
+#Code was borrowed from the internet )))
+
 from random import randint
 
 t = ["Rock", "Paper", "Scissors"]
