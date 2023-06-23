@@ -1,4 +1,4 @@
-#Dictionary practice
+#Dictionary practice (City info bot)
 
 cities = {
     "City1": "Washington DC", "City2": "Oslo",
